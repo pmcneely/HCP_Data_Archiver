@@ -1,0 +1,4 @@
+2021/12/30 16:42:09 [48001] building file list
+2021/12/30 16:42:09 [48001] .d..t...... ./
+2021/12/30 16:42:09 [48001] sent 120 bytes  received 19 bytes  55.60 bytes/sec
+2021/12/30 16:42:09 [48001] total size is 1.10G  speedup is 8,508,373.58

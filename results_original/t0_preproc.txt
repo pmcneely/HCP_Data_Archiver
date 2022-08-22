@@ -1,0 +1,6 @@
+2021/12/20 09:11:45 [1002667] building file list
+2021/12/20 09:11:45 [1002667] .d..t...... ./
+2021/12/20 09:13:28 [1002667] <f+++++++++ 100206_3T_Structural_preproc.zip
+2021/12/20 09:13:28 [1002667] <f+++++++++ 100206_3T_Structural_preproc.zip.md5
+2021/12/20 09:13:28 [1002667] sent 1.10G bytes  received 57 bytes  10.59M bytes/sec
+2021/12/20 09:13:28 [1002667] total size is 1.10G  speedup is 1.00
